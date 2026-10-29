@@ -3,6 +3,21 @@
     <channel>
         <title>Treewise</title>
         <item>
+            <title>0.2.0</title>
+            <pubDate>Thu, 29 Oct 2026 18:48:01 +0100</pubDate>
+            <sparkle:version>2026.1029.184601</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### Added
+- A command bar in the toolbar, as in Windows 11 File Explorer: New Folder, Cut, Copy, Paste, Rename, Share and Move to Trash. The toolbar can be customized.
+- Help > Treewise Website opens the download page.
+
+### Fixed
+- A click on empty space in a pane, below its last row, makes that pane the active one.
+]]></description>
+            <enclosure url="https://github.com/mag243/treewise-releases/releases/download/v0.2.0/Treewise-0.2.0-2026.1029.184601.zip" length="2232506" type="application/octet-stream" sparkle:edSignature="GVVqVQhYItiTr0ODdyP9BinBheTXh+3fFBvUDGKaqK10YVT7esRIC0yQUGFSRD0XXxBTJWaZUJV4lk+MQ7kSAw=="/>
+        </item>
+        <item>
             <title>0.1.2</title>
             <pubDate>Thu, 29 Oct 2026 17:27:44 +0100</pubDate>
             <sparkle:version>2026.1029.172501</sparkle:version>
