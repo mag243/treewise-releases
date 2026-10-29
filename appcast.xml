@@ -3,6 +3,18 @@
     <channel>
         <title>Treewise</title>
         <item>
+            <title>0.1.2</title>
+            <pubDate>Thu, 29 Oct 2026 17:27:44 +0100</pubDate>
+            <sparkle:version>2026.1029.172501</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### Fixed
+- Check for Updates… can be chosen; in 0.1.1 it stayed disabled. The setting for checking automatically shows whether it is on.
+- Installing with Homebrew no longer warns about deprecated forms in the cask.
+]]></description>
+            <enclosure url="https://github.com/mag243/treewise-releases/releases/download/v0.1.2/Treewise-0.1.2-2026.1029.172501.zip" length="2209886" type="application/octet-stream" sparkle:edSignature="iJQAnwAd4sn8hbK1nUxmb5vqXjwrXLCd4fEPVIQTHdj3Q5D/gcoLFSVd6bh38ky/TympETGHDfPQDKTT0VFTAA=="/>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Thu, 29 Oct 2026 16:50:13 +0100</pubDate>
             <sparkle:version>2026.1029.164801</sparkle:version>
