@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Treewise</title>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Thu, 29 Oct 2026 16:50:13 +0100</pubDate>
+            <sparkle:version>2026.1029.164801</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[The first beta: Treewise browses, copies and moves like Windows Explorer, signed and notarized so it opens without a warning.
+
+### Added
+- A disk image to install from: drag Treewise into Applications. Started from elsewhere, Treewise offers once to move itself there.
+- Updates through Sparkle: Check for Updates… in the Treewise menu, and a daily check that can be turned off in Settings.
+- Copying and moving by dragging onto the list, the sidebar, a tab, the path bar or empty space, with a "Move to"/"Copy to" badge that follows ⌥ and ⌘; dragging to and from Finder, and from Mail and other apps that drag promised files.
+- Cut, copy and paste, also through the system pasteboard; ⌥⌘V moves what ⌘C copied. New folder, inline rename and Move to Trash, all undoable.
+- A conflict dialog with Replace, Keep Both and Stop, and Apply to All.
+- A progress panel for long transfers, in bytes and naming the file being copied, with Pause, Resume and Stop, also inside a large file.
+- An icon view with thumbnails beside the list (⌘1 and ⌘2), Quick Look with Space, and context menus.
+- Keyboard shortcuts for tabs, panes, opening and searching, listed in the README; split view is ⌥⌘\. Settings has a button to System Settings, where any menu item can get a key of its own.
+- Settings (⌘,): hidden files, file extensions, row size, the start folder, and where a double-clicked folder opens.
+- The last window's panes, tabs, sort order and view come back after a restart.
+- The app icon.
+- Browsing the disk on macOS: a sidebar with Favorites and a Locations tree from This Mac, tabs per pane, split view with two panes, a sortable list (Name, Date Modified, Size, Kind), a path bar and a status bar; folders update live when their contents change.
+- Dutch and German, following the system language.
+- The core model and rules: drag move-or-copy, "copy" names for conflicts, per-tab history, tabs and split panes, sorting, and date, size and kind formatting.
+]]></description>
+            <enclosure url="https://github.com/mag243/treewise-releases/releases/download/v0.1.1/Treewise-0.1.1-2026.1029.164801.zip" length="2209152" type="application/octet-stream" sparkle:edSignature="Pe5m74++JZskVFA071JRHJ5AEbvXWmC/xso8n0Ma2wakJ2A9XSEiBXSD4kOU1/hFaPAEnLkzg6PIcUBXKtVIDA=="/>
+        </item>
+    </channel>
+</rss>
