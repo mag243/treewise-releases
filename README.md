@@ -34,7 +34,7 @@ Started from anywhere else, Treewise offers once to move itself into Application
 
 Treewise checks for a new version once a day and asks before it installs one. You can check by hand with **Treewise > Check for Updates…**, and turn the daily check off in **Settings**. A Homebrew install updates the same way; `brew upgrade` leaves it to Treewise.
 
-Every update is signed twice, by Apple's Developer ID and by Treewise's own update key, and is installed only when both check out. Checking for updates sends nothing about you or your Mac; it only reads [the list of versions](https://mag243.github.io/treewise-releases/appcast.xml).
+Every update is signed twice, by Apple's Developer ID and by Treewise's own update key, and is installed only when both check out. Checking for updates sends nothing about you or your Mac; it only reads a list of versions from this site. What changed in each version is on the [Releases](https://github.com/mag243/treewise-releases/releases) page.
 
 ## Requirements
 
