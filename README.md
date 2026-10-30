@@ -2,15 +2,25 @@
 
 **A file manager for macOS with the behaviour of Windows Explorer and the look of a Mac app.**
 
-Treewise is made for people who learned file management on Windows: a folder tree you can expand to any depth, two folders side by side, cut and paste for files, and a clear sign of whether a drag copies or moves. All of it with native Mac controls.
+Treewise is made for people who learned file management on Windows: a folder tree you can expand to any depth, an address bar and a command bar where Explorer has them, two folders side by side, cut and paste for files, and a clear sign of whether a drag copies or moves. All of it with native Mac controls.
+
+![Treewise in dark mode: the folder tree, the address bar, the command bar, a list of pictures and the details pane with a preview](images/01-main-dark.webp)
 
 - **A folder tree** in the sidebar: Favorites and every disk, expandable to any depth.
-- **Tabs and split view:** two panes side by side, each with its own tabs.
+- **An address bar** with the path as buttons, a menu of subfolders behind each arrow, and room to type a path (⌘L).
+- **A command bar** as in Explorer: New, Cut, Copy, Paste, Rename, Share and Move to Trash, with Sort and View menus.
+- **Two windows side by side** with Window Beside (⌥⌘N): open a folder in the other window, drag between them, or copy and move the selection to the other window.
+- **Tabs** as in Finder: ⌘T opens one, a tab tears off into its own window, and every window and tab comes back after a restart.
 - **Drag to copy or move,** with a badge that tells you which: on the same disk it moves, to another disk it copies; ⌥ always copies, ⌘ always moves.
-- **Cut, copy and paste** files with ⌘X, ⌘C and ⌘V, also between tabs, panes and Finder.
-- **Undo** (⌘Z) for move, rename, new folder and Move to Trash.
-- **List and icon view,** Quick Look with Space, a path bar, live updates, and long copies you can pause, resume and stop.
+- **Cut, copy and paste** files with ⌘X, ⌘C and ⌘V, also between windows and Finder.
+- **Undo** (⌘Z) for move, copy, rename, new folder and Move to Trash, in any window.
+- **A details pane** with a preview and the kind, size, date and folder of the selection.
+- **List and icon view,** Quick Look with Space, renaming with a click on the selected name, live updates, and long copies you can pause, resume and stop.
 - **English, Dutch and German,** following your system language.
+
+![Two Treewise windows side by side, Documents on the left and Projects on the right](images/04-beside-light.webp)
+
+![The icon view of the Downloads folder in dark mode](images/02-icons-dark.webp)
 
 > Treewise is in beta (version 0.x). It always deletes through the Trash, but keep a backup of anything you cannot lose.
 
