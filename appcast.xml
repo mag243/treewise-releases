@@ -3,6 +3,17 @@
     <channel>
         <title>Treewise</title>
         <item>
+            <title>0.3.1</title>
+            <pubDate>Fri, 30 Oct 2026 18:17:55 +0100</pubDate>
+            <sparkle:version>2026.1030.181601</sparkle:version>
+            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### Fixed
+- New Tab (⌘T) while a window shows a message, such as a path the address bar can't find, could make Treewise quit. A window that shows a message takes no new tab and is not put beside another until the message is answered, as on every Mac.
+]]></description>
+            <enclosure url="https://github.com/mag243/treewise-releases/releases/download/v0.3.1/Treewise-0.3.1-2026.1030.181601.zip" length="2433763" type="application/octet-stream" sparkle:edSignature="4Qx5Ie9EQKNwDuClDHR3uKoCrwW9XdMmTkBFMKNMhSzbNnl1XQMrX6Rb/cjtRn1hqh44fa6FTypCNwfGaUOPCQ=="/>
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Fri, 30 Oct 2026 17:21:59 +0100</pubDate>
             <sparkle:version>2026.1030.172001</sparkle:version>
