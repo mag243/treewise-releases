@@ -3,6 +3,34 @@
     <channel>
         <title>Treewise</title>
         <item>
+            <title>0.3.0</title>
+            <pubDate>Fri, 30 Oct 2026 17:21:59 +0100</pubDate>
+            <sparkle:version>2026.1030.172001</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### Added
+- Refresh (⌘R) in the toolbar reads the folder again.
+- A details pane at the right of the window (View > Show Details, ⇧⌘P, or Details in the command bar): a Quick Look preview and the selection's kind, size, date and folder, or the count and total size of several items.
+- The address bar on a row of its own under the tab bar, as in Explorer: the path as buttons that take drops, a menu of the subfolders behind each arrow, and a field to type a path in (click its empty part or press ⌘L) that suggests folder names once typing pauses. The path bar at the bottom is gone.
+- The command bar is a row under the address bar, as in Explorer: New, the actions, Sort and View menus with a label, and Window Beside; in a narrow window the buttons show only their icons. The view buttons left the toolbar for the View menu and the status bar.
+- The status bar shows the item count at the left and icon buttons for List and Icons at the right, as in Explorer.
+- A click on the name of the selected item renames it after a short wait, as in Finder and Explorer, in the list and in the icon view.
+
+### Changed
+- Tabs are macOS's window tabs: ⌘T and the + button open one, a tab tears off into its own window and Window > Merge All Windows joins them, as in Finder. ⌃⇥ shows the next tab. A file can no longer be dropped on a tab.
+- After a restart every window comes back with its tabs, each with its folder, sort order and view; before, only the window that changed last did.
+- Cut in one window and paste in another moves the items, as between tabs.
+- Split view is gone: Window > Window Beside (⌥⌘N) opens a second window and puts the two on the halves of the screen, as two Explorer windows. Open in Other Window, ⌥-double-click and ⌥⌘↓ open a folder in the most recently active other window, and the double-click setting chooses between this window and the other one.
+- Edit > Copy to Other Window and Move to Other Window, also in the context menu, copy or move the selection into the folder of the other window, with undo.
+- Undo and Redo are shared by all windows, as in Finder: ⌘Z in any window undoes the last move, copy, rename, new folder or trash, also after a drag from one window to another.
+- A window can't be made so narrow that the folder no longer fits beside the sidebar.
+
+### Fixed
+- New Window (⌘N) opens a second window; in 0.2.0 Treewise quit. The toolbar can no longer be customized.
+]]></description>
+            <enclosure url="https://github.com/mag243/treewise-releases/releases/download/v0.3.0/Treewise-0.3.0-2026.1030.172001.zip" length="2426955" type="application/octet-stream" sparkle:edSignature="Bqat9Zg5DgcA9hNNHbxraYllZxbJOfuBhPJlGPFe3g34AMj5+8jn1iODrIR8BmB5AdcX3vYCLPzZEgU1UdGMAA=="/>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Thu, 29 Oct 2026 18:48:01 +0100</pubDate>
             <sparkle:version>2026.1029.184601</sparkle:version>
