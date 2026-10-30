@@ -18,7 +18,7 @@ Treewise is made for people who learned file management on Windows: a folder tre
 - **List and icon view,** Quick Look with Space, renaming with a click on the selected name, live updates, and long copies you can pause, resume and stop.
 - **English, Dutch and German,** following your system language.
 
-![Two Treewise windows side by side, Documents on the left and Projects on the right](images/04-beside-light.webp)
+![Two Treewise windows side by side in dark mode, Documents on the left and Projects on the right](images/04-beside-dark.webp)
 
 ![The icon view of the Downloads folder in dark mode](images/02-icons-dark.webp)
 
