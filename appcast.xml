@@ -3,6 +3,17 @@
     <channel>
         <title>Treewise</title>
         <item>
+            <title>0.3.2</title>
+            <pubDate>Sat, 31 Oct 2026 20:20:43 +0100</pubDate>
+            <sparkle:version>2026.1031.201901</sparkle:version>
+            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### Changed
+- The arrow between two folders in the address bar points down while its menu of subfolders is open, as in Explorer, and is a little larger.
+]]></description>
+            <enclosure url="https://github.com/mag243/treewise-releases/releases/download/v0.3.2/Treewise-0.3.2-2026.1031.201901.zip" length="2432100" type="application/octet-stream" sparkle:edSignature="0XLZfDoY6kFA7WhcPXFgvDPPEAoy6VvdysjWN12W7+MHaRwscWzCuQ4zypYCVnb8ZbckmyUuh9H+HlumLeYdDg=="/>
+        </item>
+        <item>
             <title>0.3.1</title>
             <pubDate>Fri, 30 Oct 2026 18:17:55 +0100</pubDate>
             <sparkle:version>2026.1030.181601</sparkle:version>
