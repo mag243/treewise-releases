@@ -3,6 +3,21 @@
     <channel>
         <title>Treewise</title>
         <item>
+            <title>0.3.3</title>
+            <pubDate>Sun, 01 Nov 2026 15:44:29 +0100</pubDate>
+            <sparkle:version>2026.1101.154201</sparkle:version>
+            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### Added
+- This Mac, as This PC in Explorer: click it in the sidebar, or go up from a volume, to see the volumes. The address bar starts with it.
+- Eject a volume from Treewise: the eject button beside it in the sidebar, Eject in its context menu, or File > Eject (⌘E).
+
+### Fixed
+- A volume ejected or mounted while Treewise runs now leaves or joins the sidebar at once, and a window showing a folder on an ejected volume goes to This Mac.
+]]></description>
+            <enclosure url="https://github.com/mag243/treewise-releases/releases/download/v0.3.3/Treewise-0.3.3-2026.1101.154201.zip" length="2494159" type="application/octet-stream" sparkle:edSignature="juxbQUVyH0oxIRhVzF+0I7iZvkIBa2OshzBBA+s5MuebeXwKIOB5Lof9iTGRXRamwUkbdAvkYCWUtU7zFHwTAg=="/>
+        </item>
+        <item>
             <title>0.3.2</title>
             <pubDate>Sat, 31 Oct 2026 20:20:43 +0100</pubDate>
             <sparkle:version>2026.1031.201901</sparkle:version>
