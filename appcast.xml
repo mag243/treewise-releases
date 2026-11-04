@@ -3,6 +3,17 @@
     <channel>
         <title>Treewise</title>
         <item>
+            <title>0.5.1</title>
+            <pubDate>Wed, 04 Nov 2026 13:40:47 +0100</pubDate>
+            <sparkle:version>2026.1104.133901</sparkle:version>
+            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### Fixed
+- The Settings window fits its contents, without a scroll bar.
+]]></description>
+            <enclosure url="https://github.com/mag243/treewise-releases/releases/download/v0.5.1/Treewise-0.5.1-2026.1104.133901.zip" length="2627197" type="application/octet-stream" sparkle:edSignature="rhP08s4XHlxeSbnh7uXy4KMs41dHCj+RTokILwCjuWjyl2N3/4w2u7wcQrWqSnk0rvxlFC34EgTyljoY0Rn/CQ=="/>
+        </item>
+        <item>
             <title>0.5.0</title>
             <pubDate>Wed, 04 Nov 2026 13:24:05 +0100</pubDate>
             <sparkle:version>2026.1104.132201</sparkle:version>
