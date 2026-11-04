@@ -3,6 +3,18 @@
     <channel>
         <title>Treewise</title>
         <item>
+            <title>0.5.0</title>
+            <pubDate>Wed, 04 Nov 2026 13:24:05 +0100</pubDate>
+            <sparkle:version>2026.1104.132201</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### Added
+- Open in Terminal: the File menu (⌃⌘T), the command bar and context menus open a new terminal window in the folder. Choose Terminal, iTerm, Ghostty, Warp, kitty or Alacritty in Settings.
+- Context menus show an icon beside every command.
+]]></description>
+            <enclosure url="https://github.com/mag243/treewise-releases/releases/download/v0.5.0/Treewise-0.5.0-2026.1104.132201.zip" length="2623771" type="application/octet-stream" sparkle:edSignature="UF+IYPwZQ8SglpAFlSL/fcW2B7/dPUM3ApApnBNLmVS3m2f6L082dAbxoGFumqGH5VNZQjRBqt1ApVjmqY08BA=="/>
+        </item>
+        <item>
             <title>0.4.0</title>
             <pubDate>Wed, 04 Nov 2026 13:00:34 +0100</pubDate>
             <sparkle:version>2026.1104.125801</sparkle:version>
