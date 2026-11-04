@@ -3,6 +3,24 @@
     <channel>
         <title>Treewise</title>
         <item>
+            <title>0.4.0</title>
+            <pubDate>Wed, 04 Nov 2026 13:00:34 +0100</pubDate>
+            <sparkle:version>2026.1104.125801</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### Added
+- The About panel shows the copyright line.
+- Your home folder is under This Mac in the sidebar, after the volumes and before the cloud folders.
+- Favorites are your own: add a folder from its context menu or by dragging it between the rows, drag to reorder, and remove any favorite without touching its folder. Restore Default Favorites brings the original list back.
+- A small cloud marks a file that is only online, in the list and the icon view, and a ring shows its progress while it downloads. Browsing a cloud folder downloads nothing.
+- Dropbox, Nextcloud, OneDrive, Google Drive and other cloud folders appear under Locations. They, iCloud Drive and your home folder cannot be renamed, moved to the Trash, cut or copied from Treewise.
+
+### Fixed
+- Clicking a folder in the sidebar's tree keeps the selection there when the folder is also a favorite, and going back or up to such a folder selects it in the tree if the tree shows it.
+]]></description>
+            <enclosure url="https://github.com/mag243/treewise-releases/releases/download/v0.4.0/Treewise-0.4.0-2026.1104.125801.zip" length="2601332" type="application/octet-stream" sparkle:edSignature="T88JVVE2yDjFnrcOF0dvnZ7bM6SC6wFxgiN7K9YVXoJm/KtixRcF4YmC2zoRUvCIuVaUNM+tlWULBOtF1Ue5Dg=="/>
+        </item>
+        <item>
             <title>0.3.3</title>
             <pubDate>Sun, 01 Nov 2026 15:44:29 +0100</pubDate>
             <sparkle:version>2026.1101.154201</sparkle:version>
